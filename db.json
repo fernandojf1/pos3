@@ -1,0 +1,41 @@
+{
+  "CoordenacaoSS": [
+    {
+      "idCoordenacaoSS": 1,
+      "dataini": "2020-01-30T17:27:26.174Z",
+      "datafim": "2020-06-30T17:27:26.174Z",
+      "tipoCoord": 1
+    }
+  ],
+  "Docente": [
+    {
+      "idDocente": 1,
+      "idVinc": 2
+    }
+  ],
+  "Pessoa": [
+    {
+      "idPessoa": 1,
+      "nome": "Roberto Carlos"
+    },
+    {
+      "idPessoa": 2,
+      "name": "Erasmo Carlos"
+    }
+  ],
+  "Usuario": [
+    {
+      "idUsuario": 1
+    },
+    {
+      "idUsuario": 2
+    }
+  ],
+  "SecretariaSS": [
+    {
+      "idSecretariaSS": 1,
+      "dataini": "2020-01-30T17:27:26.174Z",
+      "datafim": "2020-06-30T17:27:26.174Z"
+    }
+  ]
+}
